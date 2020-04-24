@@ -8,4 +8,4 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-If you have a problem when installing or starting the project you can simply add `sudo` to your install or start command.
+If you have a problem when installing or starting of the project you can simply add `sudo` to your install or start command.
